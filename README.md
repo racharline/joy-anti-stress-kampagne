@@ -1,1 +1,0 @@
-# joy-anti-stress-kampagne
