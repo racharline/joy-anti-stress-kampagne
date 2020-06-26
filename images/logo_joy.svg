@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 167 273.1" style="enable-background:new 0 0 167 273.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{display:inline;fill:#FFFFFF;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:74.1417px;}
+	.st8{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g class="st0">
+	<polygon class="st1" points="24.7,22.7 17.3,11 0.7,1.5 4.1,18.1 12.7,32.5 12.7,38.3 4.7,47 5,52.2 16.4,66.9 21.6,68.8 24.7,66 	
+		"/>
+	<polyline class="st1" points="9.9,6.4 4.4,18.1 24.4,23 13.1,32.3 24.4,37.1 5,52.2 	"/>
+	<line class="st1" x1="21.6" y1="68.8" x2="14.7" y2="44.7"/>
+	<polygon class="st1" points="24.7,60.2 21.6,58.6 23.1,56.1 24.7,58.1 	"/>
+	<polygon class="st1" points="24.6,22.7 32,11 48.6,1.5 45.2,18.1 36.6,32.5 36.6,38.3 44.6,47 44.3,52.2 32.9,66.9 27.7,68.8 
+		24.6,66 	"/>
+	<polyline class="st1" points="39.3,6.4 44.9,18.1 24.9,23 36.2,32.2 24.9,37.1 44.3,52.2 	"/>
+	<line class="st1" x1="27.7" y1="68.8" x2="34.6" y2="44.7"/>
+	<polygon class="st1" points="24.6,60.2 27.7,58.6 26.1,56.1 24.6,58.1 	"/>
+</g>
+<g class="st0">
+	<path class="st2" d="M75.6,1.1h7.8v44.7c0,17.8-7.9,23.2-18.2,23.2c-2.8,0-5.7-0.5-8.3-1.6l1.2-7c2.1,0.9,4.3,1.3,6.5,1.3
+		c7,0,11.1-3.5,11.1-16.6L75.6,1.1z"/>
+	<path class="st2" d="M153.1,33.8c0,23-12.6,35.2-27.9,35.2c-15.9,0-27-13.7-27-33.9C98.1,13.9,109.9,0,126,0
+		C142.4,0,153.1,14,153.1,33.8z M106.4,34.9c0,14.3,7,27.1,19.2,27.1s19.3-12.6,19.3-27.8c0-13.3-6.3-27.2-19.2-27.2
+		S106.4,20.2,106.4,34.9z"/>
+	<path class="st2" d="M179.4,67.9V39.6l-19-38.5h8.8l8.5,18.5c2.3,5.1,4.1,9.1,6,13.8h0.2c1.7-4.4,3.8-8.7,6.1-13.8l8.7-18.5h8.8
+		l-20.2,38.4v28.5H179.4z"/>
+</g>
+<g>
+	<line class="st3" x1="96.2" y1="0" x2="96.2" y2="273.1"/>
+	<rect x="90" y="19.7" class="st4" width="73.6" height="235.5"/>
+	<text transform="matrix(0.9 0 0 1 114.4336 72.3877)"><tspan x="0" y="0" class="st5 st6 st7">J</tspan><tspan x="-11.8" y="89" class="st5 st6 st7">O</tspan><tspan x="-6.3" y="177.9" class="st5 st6 st7">Y</tspan></text>
+	<path class="st8" d="M95,144.4"/>
+	<path class="st8" d="M93.7,88.4"/>
+	<path class="st8" d="M84.1,269.1"/>
+	<polyline class="st3" points="95.9,88.5 66.8,42.5 1.5,5 14.8,70.3 48.7,127.3 48.7,150.2 17.2,184.1 18.4,204.7 63.2,262.8 
+		83.8,270 95.9,259.2 	"/>
+	<line class="st3" x1="94.7" y1="145.4" x2="18.4" y2="204.7"/>
+	<polyline class="st3" points="94.7,89.7 50.2,126.2 94.7,145.4 	"/>
+	<polyline class="st3" points="37.9,24.3 16.1,70.3 94.7,89.7 	"/>
+	<line class="st3" x1="83.8" y1="270" x2="56.5" y2="175"/>
+	<polyline class="st3" points="95.9,236.2 83.8,230.1 89.8,220.1 95.9,228.1 	"/>
+</g>
+</svg>
